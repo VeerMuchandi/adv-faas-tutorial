@@ -34,7 +34,7 @@ The demo uses https://activemq.apache.org/artemis/[Apache Artemis] as the messag
 
 == Build and Deploy 
 
-Clone the repo http://bit.ly/adv-faas-tutorial[Advanced FaaS Tutorial], we call this folder as `$PROJECT_HOME`.  Navigate to solutions/messaging-functions folder.
+Clone the repo http://bit.ly/adv-faas-tutorial[Advanced FaaS Tutorial], we call this folder as `$PROJECT_HOME`.  Navigate to `integration/messaging-functions` folder.
 
 == Create OpenShift project
 
